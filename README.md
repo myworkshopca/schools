@@ -1,2 +1,3 @@
-# schools
+# School Research Project
+
 Research schools
