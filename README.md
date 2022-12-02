@@ -8,6 +8,11 @@ List of school of Engineering from Ontario:
 
 * [Lassonde School of Engineering, from York University](https://futurestudents.yorku.ca/program/engineering)
 
+### Marine Engineering
+
+* [Marine Engineering on Wikipedia](https://en.wikipedia.org/wiki/Marine_engineering)
+* Institute of Marine Engineering, Science & Technology
+
 ## Royal Military College (RMC) of Canada
 
 [Programmes and departments](https://www.rmc-cmr.ca/en/academic-wing/faculties-departments-and-programmes)
