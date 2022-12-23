@@ -5,6 +5,10 @@ it is generally organized by university.
 
 ## Cornell University
 
+[Cornell University](https://en.wikipedia.org/wiki/Cornell_University) is located in city
+[Ithaca, New York](https://en.wikipedia.org/wiki/Ithaca,_New_York),
+which is 6 and half hour drive from Toronto.
+
 The sport teams in Cornell is call *Big Red*.
 Here is the [Cornell Sports Homepage](https://cornellbigred.com/).
 It is read *Cornell Big Red*.
@@ -37,6 +41,9 @@ Google account is welcomed!
 - [Cornell University Women's Fencing Recruiting Questionnaire](https://questionnaires.armssoftware.com/1ed7d0bc8873)
 
 ### Cornell Engineering School
+
+Cornell Engineering claims itself as the *largest* and *highest ranked*
+engineering program in the Ivy League.
 
 [Cornell Engineering School](https://www.engineering.cornell.edu) offers the following
 [Programs & Departments](https://www.engineering.cornell.edu/programs-departments).
